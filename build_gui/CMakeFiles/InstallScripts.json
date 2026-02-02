@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/ProJectsAll/IEC101/build_gui/cmake_install.cmake",
+		"C:/ProJectsAll/IEC101/build_gui/lib60870-C/cmake_install.cmake",
+		"C:/ProJectsAll/IEC101/build_gui/lib60870-C/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

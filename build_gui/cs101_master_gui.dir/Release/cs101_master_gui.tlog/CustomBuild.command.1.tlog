@@ -1,0 +1,10 @@
+^C:\PROJECTSALL\IEC101\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/ProJectsAll/IEC101 -BC:/ProJectsAll/IEC101/build_gui --check-stamp-file C:/ProJectsAll/IEC101/build_gui/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

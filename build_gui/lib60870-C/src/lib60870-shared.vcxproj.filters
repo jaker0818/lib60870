@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\ProJectsAll\IEC101\lib60870-C\src\file-service\file_server.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ProJectsAll\IEC101\lib60870-C\src\iec60870\apl\cpXXtime2a.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ProJectsAll\IEC101\lib60870-C\src\iec60870\cs101\cs101_asdu.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ProJectsAll\IEC101\lib60870-C\src\iec60870\cs101\cs101_bcr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ProJectsAll\IEC101\lib60870-C\src\iec60870\cs101\cs101_information_objects.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ProJectsAll\IEC101\lib60870-C\src\iec60870\cs101\cs101_master_connection.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ProJectsAll\IEC101\lib60870-C\src\iec60870\cs101\cs101_master.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ProJectsAll\IEC101\lib60870-C\src\iec60870\cs101\cs101_queue.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ProJectsAll\IEC101\lib60870-C\src\iec60870\cs101\cs101_slave.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ProJectsAll\IEC101\lib60870-C\src\iec60870\cs104\cs104_connection.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ProJectsAll\IEC101\lib60870-C\src\iec60870\cs104\cs104_frame.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ProJectsAll\IEC101\lib60870-C\src\iec60870\cs104\cs104_slave.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ProJectsAll\IEC101\lib60870-C\src\iec60870\link_layer\buffer_frame.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ProJectsAll\IEC101\lib60870-C\src\iec60870\link_layer\link_layer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ProJectsAll\IEC101\lib60870-C\src\iec60870\link_layer\serial_transceiver_ft_1_2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ProJectsAll\IEC101\lib60870-C\src\iec60870\frame.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ProJectsAll\IEC101\lib60870-C\src\iec60870\lib60870_common.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ProJectsAll\IEC101\lib60870-C\src\common\linked_list.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ProJectsAll\IEC101\lib60870-C\src\hal\serial\win32\serial_port_win32.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ProJectsAll\IEC101\lib60870-C\src\hal\socket\win32\socket_win32.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ProJectsAll\IEC101\lib60870-C\src\hal\thread\win32\thread_win32.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ProJectsAll\IEC101\lib60870-C\src\hal\time\win32\time.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\ProJectsAll\IEC101\lib60870-C\src\hal\memory\lib_memory.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\ProJectsAll\IEC101\lib60870-C\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\ProJectsAll\IEC101\build_gui\lib60870-C\src\version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1D96E325-6A06-33FF-8BB1-E5BFEA6EEDC1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

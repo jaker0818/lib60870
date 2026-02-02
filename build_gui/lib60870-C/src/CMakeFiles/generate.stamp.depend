@@ -1,0 +1,12 @@
+# CMake generation dependency list for this directory.
+C:/ProJectsAll/IEC101/lib60870-C/src/CMakeLists.txt
+C:/ProJectsAll/IEC101/lib60870-C/src/version.rc.in
+C:/Program Files/CMake/share/cmake-4.1/Modules/CheckCCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CheckCXXCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CheckCXXSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CheckCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/GenerateExportHeader.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CheckCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/exportheader.cmake.in

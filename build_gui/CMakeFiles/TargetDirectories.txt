@@ -1,0 +1,12 @@
+C:/ProJectsAll/IEC101/build_gui/CMakeFiles/cs101_master_gui.dir
+C:/ProJectsAll/IEC101/build_gui/CMakeFiles/PACKAGE.dir
+C:/ProJectsAll/IEC101/build_gui/CMakeFiles/INSTALL.dir
+C:/ProJectsAll/IEC101/build_gui/CMakeFiles/ALL_BUILD.dir
+C:/ProJectsAll/IEC101/build_gui/CMakeFiles/ZERO_CHECK.dir
+C:/ProJectsAll/IEC101/build_gui/lib60870-C/CMakeFiles/PACKAGE.dir
+C:/ProJectsAll/IEC101/build_gui/lib60870-C/CMakeFiles/INSTALL.dir
+C:/ProJectsAll/IEC101/build_gui/lib60870-C/CMakeFiles/ALL_BUILD.dir
+C:/ProJectsAll/IEC101/build_gui/lib60870-C/src/CMakeFiles/lib60870-shared.dir
+C:/ProJectsAll/IEC101/build_gui/lib60870-C/src/CMakeFiles/lib60870.dir
+C:/ProJectsAll/IEC101/build_gui/lib60870-C/src/CMakeFiles/PACKAGE.dir
+C:/ProJectsAll/IEC101/build_gui/lib60870-C/src/CMakeFiles/INSTALL.dir
