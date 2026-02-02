@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\ProJectsAll\IEC101\lib60870-C\examples\cs101_slave\slave_example.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\ProJectsAll\IEC101\lib60870-C\examples\cs101_slave\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{29416F0F-5252-37B7-B9F4-4DD3ACB65D1A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

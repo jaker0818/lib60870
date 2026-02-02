@@ -1,0 +1,10 @@
+^C:\PROJECTSALL\IEC101\BUILD\CMAKEFILES\72121FB06CF8DB6FCC0ADA62CAE332D3\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/ProJectsAll/IEC101/lib60870-C -BC:/ProJectsAll/IEC101/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/ProJectsAll/IEC101/build/lib60870-C.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

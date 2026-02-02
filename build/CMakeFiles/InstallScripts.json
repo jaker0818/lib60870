@@ -1,0 +1,21 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/ProJectsAll/IEC101/build/cmake_install.cmake",
+		"C:/ProJectsAll/IEC101/build/examples/cmake_install.cmake",
+		"C:/ProJectsAll/IEC101/build/examples/cs101_master_balanced/cmake_install.cmake",
+		"C:/ProJectsAll/IEC101/build/examples/cs101_master_unbalanced/cmake_install.cmake",
+		"C:/ProJectsAll/IEC101/build/examples/cs101_slave/cmake_install.cmake",
+		"C:/ProJectsAll/IEC101/build/examples/cs101_slave_files/cmake_install.cmake",
+		"C:/ProJectsAll/IEC101/build/examples/cs104_client/cmake_install.cmake",
+		"C:/ProJectsAll/IEC101/build/examples/cs104_client_async/cmake_install.cmake",
+		"C:/ProJectsAll/IEC101/build/examples/cs104_server/cmake_install.cmake",
+		"C:/ProJectsAll/IEC101/build/examples/cs104_server_no_threads/cmake_install.cmake",
+		"C:/ProJectsAll/IEC101/build/examples/cs104_server_files/cmake_install.cmake",
+		"C:/ProJectsAll/IEC101/build/examples/cs104_redundancy_server/cmake_install.cmake",
+		"C:/ProJectsAll/IEC101/build/examples/multi_client_server/cmake_install.cmake",
+		"C:/ProJectsAll/IEC101/build/tests/cmake_install.cmake",
+		"C:/ProJectsAll/IEC101/build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,21 @@
+# CMake generation dependency list for this directory.
+C:/ProJectsAll/IEC101/lib60870-C/tests/CMakeLists.txt
+C:/ProJectsAll/IEC101/lib60870-C/tests/certs/client_CA1_1.key
+C:/ProJectsAll/IEC101/lib60870-C/tests/certs/client_CA1_1.pem
+C:/ProJectsAll/IEC101/lib60870-C/tests/certs/client_CA1_2.key
+C:/ProJectsAll/IEC101/lib60870-C/tests/certs/client_CA1_2.pem
+C:/ProJectsAll/IEC101/lib60870-C/tests/certs/client_CA1_3.key
+C:/ProJectsAll/IEC101/lib60870-C/tests/certs/client_CA1_3.pem
+C:/ProJectsAll/IEC101/lib60870-C/tests/certs/client_CA1_4.key
+C:/ProJectsAll/IEC101/lib60870-C/tests/certs/client_CA1_4.pem
+C:/ProJectsAll/IEC101/lib60870-C/tests/certs/root_CA1.pem
+C:/ProJectsAll/IEC101/lib60870-C/tests/certs/server_CA1_1.key
+C:/ProJectsAll/IEC101/lib60870-C/tests/certs/server_CA1_1.pem
+C:/ProJectsAll/IEC101/lib60870-C/tests/certs/server_CA1_1_chain.pem
+C:/ProJectsAll/IEC101/lib60870-C/tests/certs/test.crl
+C:/ProJectsAll/IEC101/lib60870-C/tests/client1-key.pem
+C:/ProJectsAll/IEC101/lib60870-C/tests/client1.cer
+C:/ProJectsAll/IEC101/lib60870-C/tests/client2.cer
+C:/ProJectsAll/IEC101/lib60870-C/tests/root.cer
+C:/ProJectsAll/IEC101/lib60870-C/tests/server-key.pem
+C:/ProJectsAll/IEC101/lib60870-C/tests/server.cer

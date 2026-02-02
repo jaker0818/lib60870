@@ -1,0 +1,10 @@
+^C:\PROJECTSALL\IEC101\LIB60870-C\EXAMPLES\CS101_MASTER_BALANCED\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/ProJectsAll/IEC101/lib60870-C -BC:/ProJectsAll/IEC101/build --check-stamp-file C:/ProJectsAll/IEC101/build/examples/cs101_master_balanced/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
